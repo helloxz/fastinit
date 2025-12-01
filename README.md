@@ -14,6 +14,7 @@ git clone https://github.com/helloxz/fastinit.git
 python3 -m venv myenv
 source myenv/bin/activate
 pip3 install -r app/requirements.txt
+bash run.sh dev
 ```
 
 ## 命名规范
