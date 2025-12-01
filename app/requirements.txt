@@ -1,7 +1,8 @@
-fastapi
-python-multipart
-sqlalchemy
-toml
-redis
-captcha
-uvicorn
+fastapi==0.123.0
+python-multipart==0.0.20
+SQLAlchemy==2.0.44
+toml==0.10.2
+redis==7.1.0
+captcha==0.7.1
+uvicorn==0.38.0
+psycopg2-binary==2.9.10
